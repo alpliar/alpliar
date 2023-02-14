@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Alexandre, an enthusiastic ✨ full stack developer ✨. I specialise in Web Development, JavaScript and Design. I love open source and i'm willing to engage in the community.
 
