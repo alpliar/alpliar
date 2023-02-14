@@ -1,10 +1,15 @@
 ### Hi there 👋
 
-Hi there 👋, I am Alexandre an enthusiastic ✨ full stack developer ✨. I specialise in Web Development, JavaScript and Design. I love open source and i'm willing to engage in the community.
+I am Alexandre, an enthusiastic ✨ full stack developer ✨. I specialise in Web Development, JavaScript and Design. I love open source and i'm willing to engage in the community.
 
-## Job
+**I'm currently looking for a frontend developer position in Lyon, France (or remote).**
 
-I'm currently looking for a frontend developer position in Lyon, France (or remote).
+## Tech Stack
+
+* ➰	 Git | Github 
+* 🌐 HTML | CSS | JavaScript
+* 🔄 React | Vue | Svelte
+* ☁️ SQL | GraphQL | MongoDB
 
 ## More about me
 
