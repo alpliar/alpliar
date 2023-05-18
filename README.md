@@ -2,7 +2,7 @@
 
 I am Alexandre, an enthusiastic ✨ full stack developer ✨. I specialise in Web Development, JavaScript and Design. I love open source and i'm willing to engage in the community.
 
-**I work for [Playin](play-in.com)**
+**I work for [Playin](https://www.play-in.com/)**
 
 ## Tech Stack
 
